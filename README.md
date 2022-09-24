@@ -12,6 +12,8 @@ Running the script in the docker ubuntu linux host machine in the gns3 environme
 
 The gns3 topology with network automation container as the host machine.
 
+nano /etc/network/interfaces - to configure network interface and enable assigning dhcp and connectivity to the NAT cloud.
+
 ![gns3](https://user-images.githubusercontent.com/61822296/192082096-4fbd9c36-ff75-4ee9-b0c4-80643328a4bb.png)
 
 
