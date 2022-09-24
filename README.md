@@ -43,7 +43,7 @@ run python3 packet_sniffer.py as root
 ![capture](https://user-images.githubusercontent.com/61822296/192082383-1d440de1-aa63-41c1-8d70-9b9b513e5a33.png)
 
 
-details of the traffic stored in a file - vic file
+details of the traffic stored in a file - vic file that includes the timestamp and protocol for example below i specified all protocols together with the SMAC(source mac address) and DMAC(destination mac address) 
 
 ![logs](https://user-images.githubusercontent.com/61822296/192082382-ee09f292-7479-42c1-87fd-4dbd576ab2c0.png)
 
