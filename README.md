@@ -48,7 +48,7 @@ details of the traffic stored in a file - vic file that includes the timestamp a
 ![logs](https://user-images.githubusercontent.com/61822296/192082382-ee09f292-7479-42c1-87fd-4dbd576ab2c0.png)
 
 
-
+it worked that means will have to package it into a pip installer soon.
 
 
 do you smell what the network is cooking? :)
