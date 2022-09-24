@@ -16,4 +16,11 @@ nano /etc/network/interfaces - to configure network interface and enable assigni
 
 ![gns3](https://user-images.githubusercontent.com/61822296/192082096-4fbd9c36-ff75-4ee9-b0c4-80643328a4bb.png)
 
+installing the scapy module for capturing, handling and analyzing network traffic.
+
+pip3 install scapy
+
+
+
+
 
