@@ -37,8 +37,18 @@ pip3 install scapy
 ![scapy](https://user-images.githubusercontent.com/61822296/192082374-6c8e9361-5f7f-4854-b835-a04ccb67cc3b.png)
 
 
+run python3 packet_sniffer.py as root
+
+
+![capture](https://user-images.githubusercontent.com/61822296/192082383-1d440de1-aa63-41c1-8d70-9b9b513e5a33.png)
+
+
+details of the traffic stored in a file - vic file
+
+![logs](https://user-images.githubusercontent.com/61822296/192082382-ee09f292-7479-42c1-87fd-4dbd576ab2c0.png)
 
 
 
 
 
+do you smell what the network is cooking? :)
