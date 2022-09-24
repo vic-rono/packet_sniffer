@@ -6,7 +6,13 @@ The code handles Number of packets to be sniffed, The time interval, Protocol co
 Running the script in the docker ubuntu linux host machine in the gns3 environment.
 
 
+
+
+
 ![ubuntu_server](https://user-images.githubusercontent.com/61822296/192036041-b2fb5819-107d-4782-9d56-9880e319bf0f.png)
+
+
+
 
 
 
@@ -19,6 +25,13 @@ nano /etc/network/interfaces - to configure network interface and enable assigni
 installing the scapy module for capturing, handling and analyzing network traffic.
 
 pip3 install scapy
+
+
+
+
+
+
+
 
 
 ![scapy](https://user-images.githubusercontent.com/61822296/192082374-6c8e9361-5f7f-4854-b835-a04ccb67cc3b.png)
